@@ -1,0 +1,4 @@
+rootProject.name = "My Application234"
+include ':app'
+include ':commonlib'
+include ':mobilertc'
